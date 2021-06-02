@@ -29,4 +29,14 @@ zuul:
       path: /ms-empregado/**
       
       
+      ms-cliente:
+      service-id: ms-cliente
+      path: /ms-cliente/**
+      
+      
+      ms-pagamento:
+      service-id: ms-pagamento
+      path: /ms-pagamento/**
+      
+      
       
